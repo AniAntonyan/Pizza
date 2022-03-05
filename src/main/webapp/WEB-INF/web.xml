@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>ingredientController</servlet-name>
-        <servlet-class>com.example.pizzamaker.controller.IngredientController</servlet-class>
+        <servlet-class></servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>ingredientController</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>orderController</servlet-name>
-        <servlet-class>com.example.pizzamaker.controller.OrderController</servlet-class>
+        <servlet-class>com.</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>orderController</servlet-name>
